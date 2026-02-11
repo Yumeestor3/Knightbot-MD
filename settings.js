@@ -2,9 +2,9 @@ const settings = {
   packname: 'Knight Bot',
   author: '‎',
   botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
-  ownerNumber: '919876543210', //Set your number here without + symbol, just add country code & number without any space
-  giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
+  botOwner: 'AyumeeBot', // Your name
+  ownerNumber: '6283878850133', //Set your number here without + symbol, just add country code & number without any space
+  giphyApiKey: 'KnightBot!H4sIAAAAAAAAA5VUyZLiRhT8lYm6Qgxa0BrRERZqSQgEktjBMYdCKokCbZRKCDHBD8wP+eKTz/4If4pD9PT0HOx2+1Zb5MuXmfW+gizHJRqjBqhfQUHwBVLULmlTIKCCQRVFiIAuCCGFQAWTiecxo0S6mUaIWdHUDYvUK7OvzG/GyZ3V4sQyh5q+j4z+E7h3QVHtExy8A7jQxsPwZtWN7em3ZbUMtnXf8wur1lB0G3Y6p2vIxiiKN5rxBO4tIsQEZ7FRHFCKCEzGqPEgJh+j74+ursfWxdSr3aLhuDPt3Oqj5SHG5yQntAdE1qqmqXf86WP0h/RyXu9dMXVZeZbCQBAG48zyvTkX1OlzfLTsEbR57lxa5Qv9EscZCu0QZRTT5sO6d56bOaS9qhzKzOSAMtpLoDcNPIljJ6vJQZh1rp2AdCo7+6DuA2sTEEmqxIB09tc1VXqbpBcucDbvOMbocjjGqeJudcs9xD8T98hrVk7/R/exHfgnacJGlbCofVdzXasajCcnffyc9yqhxjulv+Wc1XLNfIy+/bzbsWgg8Zo14689Ek8je7k9k2Z6ZpjTc4WspBQu3k0+9d/oQ1qR91haa3Mruv2i9odpPrCG0XmHyTNaj5dr+Xir9H163DgrXnau4gAxY8E5YyRxzo5Mj1Ta8O5lsw/w6Opudutl2ji+W19EXXt6dHRCjR0Clb13AUExLimBFOdZe9aXuwCGlzkKCKIPdUFf2RmU04xGdvOhLirlrZBnKFtJG8rnRue4H0cn5CjxXNk+gS4oSB6gskThEJc0J80ElSWMUQnUX790QYau9MW3thrPdkGESUmXWVUkOQxfTX29hEGQVxmdN1mgtwtEgMq8HSNKcRaXrYxVBklwwBekHyAtgRrBpEQ/GkQEhUClpEI/Pq2eh63u5nikDFfiBHRB+vADh0AFIifzsiTLAsPyvMozv5Sf6xYXFsXnDFHQBRlsnwOtqVKEPv31+7c/fvv05zfQBckDgGNkRhRZnlc4VhG4FqK9uP/g3pYKEYU4KYEK9NFxdBROQ8M90nJSW5ZmxJoea+Ct19fMvJjirldipMebbXosjqztmxuz75DUWSULiq/7my+4Cet1zgPWePoHEKACZjZJbH2Tmh261gmZXbYO1L2lFJ9SM1WSvM9WjrCQzkZ4vEzN5YruZXtlKIopk/kuMg7uKhIT35wp3mISdU7ODJ6FR8C6IEQXHKCfi/U4IUqF/tzG6dWaQbqErFRuUp+fFwZvOlXSny9EpGvX/DzUgvS2z6hCg+Xi7Mt64PtTc8LEZWAQPppe0nDkru1xo8UvaX78puT7FMOPoLUuttsIo8dQ+G7Wf7v6wrxNH3Pv/gTyfc782/xaJAnK6tzkRrm4VebGYHVFuihgdreUtuVaZtxFES565zicgfv9SxcUCaRRTlKggjLdQ9AFJK/aLNtZlL9TSdeW9rMfz9u+E1hS7e1/LHCKSgrTAqisJDGSIkoy8/LKI3kxhOUBqICfKTteAfe/AcLNiKJsBwAA',
   commandMode: "public",
   maxStoreMessages: 20, 
   storeWriteInterval: 10000,
